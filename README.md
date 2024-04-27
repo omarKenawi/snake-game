@@ -13,3 +13,8 @@ The Snake Game is a classic arcade game where the player maneuvers a line that g
 - Use the arrow keys to control the direction of the snake.
 - Try to eat the items to grow longer.
 - Avoid hitting the walls or the snake's own body.
+<h2 class="video-title">The Game</h2>
+<p align="center">
+  <img src="Capture1.PNG" width="50%" />
+  <img src="Capture2.PNG" width="50%" />
+</p>
